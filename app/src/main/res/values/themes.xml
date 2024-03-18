@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Hazz" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">#E91E63</item>
+        <item name="android:statusBarColor">#A61647</item>
+    </style>
+
+    <style name="Theme.Hazz" parent="Base.Theme.Hazz" />
+</resources>
